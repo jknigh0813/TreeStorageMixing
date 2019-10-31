@@ -1,5 +1,10 @@
 # EcH2O-iso Tree Water Isotopic Composition
-This repository contains two post-processing tools for EcH2O-iso (Kuppel et al. 20183) model output. 
+This repository contains two post-processing tools for EcH2O-iso (Kuppel et al. 20183) model output to compute the isotopic compoistion of above ground tree water storage.
+
+## Inputs
+* Tree_V - the volume of tree-water storage (expressed as a depth)
+* Site - the EcH2O-iso output file site index
+* Spinup - the size of the model spinup period
 
 ## Well Mixed (WM)
 * Assumes trees are static reservoirs with volume TreeV
