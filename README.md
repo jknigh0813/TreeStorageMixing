@@ -14,4 +14,4 @@ This repository contains two post-processing tools for EcH2O-iso (Kuppel et al. 
 * Assumes the volume of transpiration = RWU
 * Water inputs have the isotopic composition of root water uptake (RWU)
 * Transpired water is the oldest tree-stored water
-
+* Tree isotopic composition is computed as 1) average of all tree stored water, and 2) the midpoint by volume of all tree-stored water
