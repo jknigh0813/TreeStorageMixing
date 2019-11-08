@@ -1,5 +1,5 @@
 # EcH2O-iso Tree Water Isotopic Composition
-This repository contains two post-processing tools for EcH2O-iso (Kuppel et al. 20183) model output to compute the isotopic compoistion of above ground tree water storage.
+This repository contains two post-processing tools for EcH2O-iso (Kuppel et al. 2018) model output to compute the isotopic compoistion of above ground tree water storage.
 
 ## Inputs
 * Tree_V - the volume of tree-water storage (expressed as a depth)
