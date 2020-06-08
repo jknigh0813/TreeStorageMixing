@@ -22,4 +22,6 @@ This repository contains two post-processing tools for EcH2O-iso (Kuppel et al. 
 * Tree isotopic composition is computed as 1) average of all tree stored water, and 2) the midpoint by volume of all tree-stored water
 
 ## References
+Knighton J., Kuppel, S., Smith, A., Sprenger, M., Soulsby, C., Tetzlaff, D. (2020). Using Isotopes to Incorporate Tree Water Storage and Mixing Dynamics into a Distributed Ecohydrologic Modelling Framework. Ecohydrology. DOI: 10.1002/eco.2201
+
 Kuppel, S., Tetzlaff, D., Maneta, M., & Soulsby, C. (2018). EcH2O-iso 1.0: water isotopes and age tracking in a process-based, distributed ecohydrological model. Geoscientific Model Development.
